@@ -134,6 +134,16 @@ The final trained model was saved using **Joblib** for future deployment and pre
 
 ---
 
+## Business Recommendations
+
+Based on the analysis and model evaluation, the following recommendations are proposed:
+
+- Improve inventory planning by monitoring warehouse movement and retail transfers.
+- Use the prediction model to support stock allocation and demand forecasting.
+- Prioritize inventory for high-demand product categories identified during EDA.
+- Monitor supplier activity to maintain product availability.
+- Consider validating whether retail transfer information is available before prediction in a real business environment to avoid potential data leakage.
+
 ## 🚀 Future Improvements
 
 Possible future improvements include:
